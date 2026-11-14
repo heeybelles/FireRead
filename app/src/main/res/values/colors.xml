@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta de tons de azul para os botões e destaques -->
+    <color name="blue_primary">#1976D2</color>
+    <color name="blue_primary_dark">#0D47A1</color>
+    <color name="blue_secondary">#0288D1</color>
+    <color name="blue_light">#E3F2FD</color>
+    <color name="blue_accent">#2196F3</color>
+
+    <!-- Cores neutras de apoio -->
+    <color name="background_screen">#F8F9FA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="border_edit_text">#CCCCCC</color>
+    <color name="hint_color">#8E8E93</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#616161</color>
+    <color name="green_preco">#2E7D32</color>
+</resources>
